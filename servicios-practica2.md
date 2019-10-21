@@ -15,7 +15,9 @@ Para empezar, mi parte del trabajo se enfoco en la creacion y administracion de 
 [![TablaDireccionamiento](https://i.gyazo.com/f843a483a819547533d76ccccf5ca0f4.png)](https://gyazo.com/f843a483a819547533d76ccccf5ca0f4)
 
 Configuramos nuestro direccionamiento por ej..
+
 `ip address add address=192.168.2.42/24 interfaces=ether2`
+
 Y tambien configuramos el protocolo de enrutamiento OSPF añadiendo las entradas de sus brazos que conoce en cada uno de sus router de forma correspondiente por ej..
 
 `routing ospf network add network=192.168.0.0/30 area=backbone`
