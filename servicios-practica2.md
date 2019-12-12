@@ -44,4 +44,5 @@ Aceptamos las condiciones de instalacion y ejecutaremos el programa usando el sn
 
 [![Monotorizacion_snmp](https://i.gyazo.com/50de264482019267802e4f7c2864c5c8.png)](https://gyazo.com/50de264482019267802e4f7c2864c5c8)
 
-                                                  *Trabajo realizado por Carlos Jose Cobo Thomas*
+                                                  Trabajo realizado por Carlos Jose Cobo Thomas
+                                                                    Grupos de trabajo Carlos, Maruan, Chema, Mario
