@@ -6,3 +6,4 @@
 * [Practica 4 -Datacenter con Proxmox + Ceph](https://github.com/carlosjose1267/sri/edit/master/README.md)
 * [Practica 5 -Servidores de dominio: Servidores maestros](https://github.com/carlosjose1267/sri/edit/master/README.md)
 * [Practica 6 -Servidores de dominio: Delegacion de subdominios](https://github.com/carlosjose1267/sri/edit/master/README.md)
+
