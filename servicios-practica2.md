@@ -29,6 +29,7 @@ Cuando se halla configurado lo anterior correctamente, deberemos activar el prot
 Y luego activamos el protocolo snmp y le añadimos el nombre de nuestra comunidad creada anteriormente:
 
 `snmp set enabled=yes trap-community=carlosmikrotik trap-version=2`
+
 `snmp print`
 
 Mas tarde, nos vamos a un debian/CentOS y nos descargamos de los repositorios apt, los agentes de monotorizacion snmp:
@@ -43,4 +44,4 @@ Aceptamos las condiciones de instalacion y ejecutaremos el programa usando el sn
 
 [![Monotorizacion_snmp](https://i.gyazo.com/50de264482019267802e4f7c2864c5c8.png)](https://gyazo.com/50de264482019267802e4f7c2864c5c8)
 
-Trabajo realizado por Carlos Jose Cobo Thomas
+                                                                          *Trabajo realizado por Carlos Jose Cobo Thomas*
