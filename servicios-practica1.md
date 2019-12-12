@@ -55,7 +55,8 @@ Nos vamos a el fichero de configuracion de ssh escribiendo lo siguiente en la te
 
 `nano /etc/ssh/ssh_config`
 
-Buscamos donde dice Port y la descomentamos y añadimos un puerto distinto que este libre por ejemplo en mi caso es asi:
+Buscamos donde dice Port y la descomentamos y añadimos un puerto distinto que este libre por ejemplo en mi caso: 
+
 [![SSH1](https://i.gyazo.com/01d69fbd06b20f6e30a18c1e390b66bb.png)](https://gyazo.com/01d69fbd06b20f6e30a18c1e390b66bb)
 
 Despues guardamos la configuracion y reiniciamos el servicio.
