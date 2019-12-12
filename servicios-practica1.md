@@ -40,6 +40,16 @@ Filtrado por mensaje del kernel
 journalctl -k --since "yesterday"
 ~~~
 
+##### Netstat #####
+Netstat (network statistics) es una herramienta de línea de comandos que muestra un listado de las conexiones activas.
+Podemos encontrar numerosos comandos para realizar filtros a necesidad.Entre ellos se encuentran:
+
+`netstat -at`   -> Listado de conexiones de puertos TCP
+
+`netstat -au`   -> Listado de conexiones UDP Puertos
+
+`netstat -l`    -> Listado de todas las conexiones de Escucha
+
 #### Cambiar el puerto del ssh ####
 Nos vamos a el fichero de configuracion de ssh escribiendo lo siguiente en la terminal.
 
