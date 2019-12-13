@@ -25,12 +25,7 @@ necesarios donde vamos a instalar el servicio del protocolo del servidor y del c
 `apt-get install nfs-kernel-server`
 `apt-get install nfs-common`
 
-
-
-
-
-
-
+Luego creamos
 
 
 
