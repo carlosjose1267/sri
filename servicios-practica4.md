@@ -29,3 +29,7 @@
 [![Image from Gyazo](https://i.gyazo.com/dd5c5693731449f8f4257e519a17e0cc.png)](https://gyazo.com/dd5c5693731449f8f4257e519a17e0cc)
 
 
+### named.conf.option ###
+
+[![Image from Gyazo](https://i.gyazo.com/63eb92f460b737ad5e002e20dde17aa9.png)](https://gyazo.com/63eb92f460b737ad5e002e20dde17aa9)
+[![Image from Gyazo](https://i.gyazo.com/71eb7637fbbb8b8a270a93b2ace1e9ad.png)](https://gyazo.com/71eb7637fbbb8b8a270a93b2ace1e9ad)
